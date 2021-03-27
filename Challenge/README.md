@@ -16,6 +16,7 @@
  <img align="centre" width="300" src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig6.png">
  <img align="right" width="300" src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png"> 
   
+  
   There is also another interesting angle to this whole scenario. Urban cities are more thickly populated, leading to the distance between any two destinations prone to be a lot lesser than the suburban or rural neighborhoods. Eventually these shorter rides could account for the Urban cities to generate lesser revenue per ride/driver despite the higher number of rides compared to its Suburban and Rural counterparts.
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png"></p>
