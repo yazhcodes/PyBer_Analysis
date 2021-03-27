@@ -11,7 +11,7 @@
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png"></p>
   
-  akdnckfsv djk bkj baiu flaijsldio jl ijfsio. <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png" style="float: left;">
+  akdnckfsv djk bkj baiu flaijsldio jl ijfsio. <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png">
 
 # Summary: 
   Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
