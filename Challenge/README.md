@@ -4,12 +4,14 @@
   * Percentage of Total Fares/Drivers/Riders based on City Type.
 
 # Results: 
-  Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+  After diving deep into the data to identify relationships, here's a summary of the analysis which clearly depicts the contribution of each City Type to Pyber's revenue and highlights the ones with the most potential.
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Summary%20Dataframe.png"></p>
   
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png"></p>
+  
+  akdnckfsv djk bkj baiu flaijsldio jl ijfsio. <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png" style="float: left;">
 
 # Summary: 
   Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
