@@ -28,4 +28,7 @@
   <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png">
 
 # SUMMARY 
-  Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+  Based on the results, here are some business recommendations to the CEO to address the disparities among the city types,
+   * **Deploy** more drivers in Rural and Suburban cities on experimental basis, constantly monitoring stats to look out for any increase in total rides/fares.
+   * **Introduce** _cheaper ride fares_ to increase _affordability in rural and suburbs_. This will result in more people availing services increasing the number of rides eventually maintaining, if not increasing the total fares generated form these neighborhoods.
+   * **Capture** the _ride length and duration of each trip_, to bridge the gap between the number of rides and the average fare per ride or driver.
