@@ -8,10 +8,14 @@
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Summary%20Dataframe.png"></p>
   
+  It is obvious that Urban City Types have yielded close to 40 grand USD, the most revenue for Pyber. But we shouldn't turn a blind eye to the potential Rural and Suburban City Types hold for us. On an average a Rural driver makes $55 which is 69% more than what an Urban driver makes. Similarly, a Suburban driver makes 58% more than an Urban driver. 
+  
+  There is also another interesting angle to this whole scenario. Urban cities are more thickly populated, leading to the distance between any two destinations prone to be a lot lesser than the suburban or rural neighborhoods. Eventually these shorter rides could account for the Urban cities to generate lesser revenue per ride/driver despite the higher number of rides compared to its Suburban and Rural counterparts.
+  
+  akdnckfsv djk bkj baiu flaijsldio jl ijfsio. <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png">
   
   <p><img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png"></p>
   
-  akdnckfsv djk bkj baiu flaijsldio jl ijfsio. <img src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png">
 
 # Summary: 
   Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
