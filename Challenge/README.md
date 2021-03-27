@@ -17,6 +17,7 @@
  <img align="centre" width="300" src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig6.png">
  <img align="right" width="300" src="https://github.com/yazhcodes/PyBer_Analysis/blob/main/Resources/Fig7.png"> 
  </p>
+ 
   
 ## Let's not ignore the Ride Lengths
   There is also another interesting angle to this whole scenario. Urban cities are more **thickly populated**, resulting in the distance between a given pick up and drop off location to be a lot lesser than those in the suburban or rural neighborhoods. Eventually these **shorter rides** could account for the Urban cities to generate **lesser revenue per ride/driver despite the higher number of rides** compared to its Suburban and Rural counterparts.
