@@ -1,5 +1,5 @@
 # OVERVIEW 
-  This project is about helping **PyBer**, a _Python based ride-sharing app company_, improve access to ride-sharing services and determine affordability for underserved neighborhoods. Through exploratory analysis and data visualization techniques, we establish  
+  This project is about helping **PyBer**, a _Python based ride-sharing app company_, improve access to ride-sharing services and determine affordability for underserved neighborhoods. Through exploratory analysis and data visualization techniques, we attempt to establish  
   * Relationships between the Types of City and the Number of Drivers/Riders 
   * Percentage of Total Fares/Drivers/Riders based on City Type.
 
